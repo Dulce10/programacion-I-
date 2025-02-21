@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib>
+#include <cstdlib> //para numeros aleatorios
 #include <ctime>
 #include <vector>
 #include <string>
