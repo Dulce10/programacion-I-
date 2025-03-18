@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1742262337 source:c:\users\miais\documents\programacion\programacion i\programacion-i-\controlcalculador\src\calculador.cpp
+	"calculador.h"
+
+1742261069 c:\users\miais\documents\programacion\programacion i\programacion-i-\controlcalculador\include\calculador.h
+	<iostream>
+
+1742261093 source:c:\users\miais\documents\programacion\programacion i\programacion-i-\controlcalculador\main.cpp
+	<iostream>
+	"calculador.h"
+
