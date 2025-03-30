@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1743356880 source:c:\users\miais\documents\programacion\programacion i\programacion-i-\campeonato\src\equipo.cpp
+	"Equipo.h"
+
+1743356850 c:\users\miais\documents\programacion\programacion i\programacion-i-\campeonato\include\equipo.h
+	<string>
+	<iostream>
+
+1743356952 source:c:\users\miais\documents\programacion\programacion i\programacion-i-\campeonato\src\torneo.cpp
+	"Torneo.h"
+	"Utilidades.h"
+	<algorithm>
+
+1743356929 c:\users\miais\documents\programacion\programacion i\programacion-i-\campeonato\include\torneo.h
+	"Equipo.h"
+	<vector>
+
+1743356972 c:\users\miais\documents\programacion\programacion i\programacion-i-\campeonato\include\utilidades.h
+
+1743356991 source:c:\users\miais\documents\programacion\programacion i\programacion-i-\campeonato\src\utilidades.cpp
+	"Utilidades.h"
+	<cstdlib>
+	<ctime>
+
